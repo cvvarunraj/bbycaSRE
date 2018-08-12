@@ -4,6 +4,7 @@
   "description": "Best Buy App",
   "main": "bestbuy.ca.js",
   "scripts": {
+    "start": "node bestbuy.ca.js > /dev/null 2>&1 &",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
