@@ -1,13 +1,25 @@
 {
   "name": "bbycasre-master",
   "version": "1.0.0",
-  "description": "",
+  "description": "Best Buy App",
   "main": "bestbuy.ca.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvvarunraj/bbycaSRE.git"
+  },
+  "keywords": [
+    "Best",
+    "Buy"
+  ],
+  "author": "Varun Raj",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvvarunraj/bbycaSRE/issues"
+  },
+  "homepage": "https://github.com/cvvarunraj/bbycaSRE#readme",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.3"
